@@ -1,0 +1,12 @@
+{
+  "title": "B Side Redux V-Slice",
+  "description": "A B Side Redux Port for Base Game.",
+  "contributors": [
+    {
+      "name": "Huy1234TH"
+    }
+  ],
+  "api_version": "0.6.3",
+  "mod_version": "1.0.0",
+  "license": "Apache-2.0"
+}
