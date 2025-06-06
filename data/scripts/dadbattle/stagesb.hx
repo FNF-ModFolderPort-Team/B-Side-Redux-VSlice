@@ -1,8 +1,17 @@
 import funkin.play.PlayState;
 import funkin.play.stage.Stage;
-import flixel.FlxSprite;
-import flixel.group.FlxTypedGroup;
+import funkin.graphics.FunkinSprite;
+import flixel.tweens.FlxTween;
+import flixel.tweens.FlxEase;
+import flixel.FlxG;
+import flixel.addons.display.FlxRuntimeShader;
+import funkin.modding.base.ScriptedFlxRuntimeShader;
 import funkin.Conductor;
+import openfl.filters.ShaderFilter;
+import haxe.Timer;
+import funkin.modding.module.Module;
+import funkin.modding.module.ModuleHandler;
+
 
 class stageb extends Stage 
 {
