@@ -4,11 +4,11 @@ import flixel.FlxSprite;
 import flixel.group.FlxTypedGroup;
 import funkin.Conductor;
 
-class schoolG extends Stage 
+class stageb extends Stage 
 {
     public function new() 
     {
-        super('stage-b');
+        super('stageb');
     }
 
     function buildStage() {

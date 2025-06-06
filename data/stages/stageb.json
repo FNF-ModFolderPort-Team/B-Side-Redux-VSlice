@@ -113,7 +113,6 @@
 				1,
 				1
 			],
-			"alpha": 0,
 			"animations": [
 				{
 					"offsets": [
@@ -127,31 +126,8 @@
 					"flipX": false,
 					"name": "floor-dark"
 				}
-			]
-		},
-		{
-			"danceEvery": 0,
-			"zIndex": 7.3,
-			"position": [
-				7,
-				-9
 			],
-			"scale": [
-				1,
-				1
-			],
-			"animType": "sparrow",
-			"name": "wall-dark",
-			"flipX": false,
-			"isPixel": false,
-			"flipY": false,
-			"assetPath": "stages/week1/wall-dark",
-			"scroll": [
-				1,
-				1
-			],
-			"alpha": 0,
-			"animations": []
+			"alpha": 0
 		},
 		{
 			"danceEvery": 0,
@@ -174,8 +150,8 @@
 				1,
 				1
 			],
-			"alpha": 0,
-			"animations": []
+			"animations": [],
+			"alpha": 0
 		},
 		{
 			"danceEvery": 0,
@@ -198,8 +174,8 @@
 				1,
 				1
 			],
-			"alpha": 0,
-			"animations": []
+			"animations": [],
+			"alpha": 0
 		},
 		{
 			"danceEvery": 0,
@@ -222,8 +198,8 @@
 				1,
 				1
 			],
-			"alpha": 0,
-			"animations": []
+			"animations": [],
+			"alpha": 0
 		}
 	],
 	"cameraZoom": 1,
@@ -264,5 +240,5 @@
 			]
 		}
 	},
-	"name": "stage-b"
+	"name": "stageb"
 }
