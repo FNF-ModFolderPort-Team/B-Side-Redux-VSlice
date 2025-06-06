@@ -1,0 +1,80 @@
+{
+    "version": "1.0.0",
+    "name": "Dark Gf",
+    "assetPath": "characters/GF-darkstage",
+    "singTime": 4,
+    "isPixel": false,
+    "scale": 1,
+    "healthIcon": {
+        "id": "gf",
+        "isPixel": false,
+        "flipX": false,
+        "scale": 1
+    },
+    "animations": [
+        {
+            "name": "sad",
+            "prefix": "Cry",
+            "offsets": [
+                1,
+                -24
+            ],
+            "frameRate": 24,
+            "frameIndices": []
+        },
+        {
+            "name": "danceLeft",
+            "prefix": "Dance",
+            "offsets": [
+                3,
+                -17
+            ],
+            "frameRate": 30,
+            "frameIndices": [
+                30,
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "name": "danceRight",
+            "prefix": "Dance",
+            "offsets": [
+                3,
+                -17
+            ],
+            "frameRate": 30,
+            "frameIndices": [
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29
+            ]
+        }
+    ],
+    "flipX": false
+}

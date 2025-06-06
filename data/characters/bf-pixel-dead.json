@@ -1,0 +1,47 @@
+{
+    "version": "1.0.0",
+    "name": "Bf Pixel Dead",
+    "assetPath": "characters/bfPixelsDEAD",
+    "singTime": 4,
+    "isPixel": true,
+    "scale": 6,
+    "healthIcon": {
+        "id": "bf-pixel",
+        "isPixel": true,
+        "flipX": false,
+        "scale": 1
+    },
+    "animations": [
+        {
+            "name": "deathConfirm",
+            "prefix": "RETRY CONFIRM",
+            "offsets": [
+                -26,
+                -12
+            ],
+            "frameRate": 24,
+            "frameIndices": []
+        },
+        {
+            "name": "deathLoop",
+            "prefix": "Retry Loop",
+            "offsets": [
+                -30,
+                -12
+            ],
+            "frameRate": 24,
+            "frameIndices": []
+        },
+        {
+            "name": "firstDeath",
+            "prefix": "BF Dies pixel",
+            "offsets": [
+                0,
+                0
+            ],
+            "frameRate": 24,
+            "frameIndices": []
+        }
+    ],
+    "flipX": true
+}

@@ -1,0 +1,335 @@
+{
+    "version": "1.0.0",
+    "name": "Bpico Speaker",
+    "assetPath": "characters/pico-speaker",
+    "singTime": 4,
+    "isPixel": false,
+    "scale": 1,
+    "healthIcon": {
+        "id": "gf",
+        "isPixel": false,
+        "flipX": false,
+        "scale": 1
+    },
+    "animations": [
+        {
+            "name": "danceLeft",
+            "prefix": "GF Dancing Beat",
+            "offsets": [
+                0,
+                -9
+            ],
+            "frameRate": 24,
+            "frameIndices": [
+                30,
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "name": "danceRight",
+            "prefix": "GF Dancing Beat",
+            "offsets": [
+                0,
+                -9
+            ],
+            "frameRate": 24,
+            "frameIndices": [
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29
+            ]
+        },
+        {
+            "name": "idle",
+            "prefix": "Pico Idle",
+            "offsets": [
+                0,
+                6
+            ],
+            "frameRate": 24,
+            "frameIndices": []
+        },
+        {
+            "name": "catch",
+            "prefix": "Pico Gun Catch",
+            "offsets": [
+                70,
+                463
+            ],
+            "frameRate": 24,
+            "frameIndices": []
+        },
+        {
+            "name": "end",
+            "prefix": "Pico Shoots The Guy",
+            "offsets": [
+                750,
+                292
+            ],
+            "frameRate": 24,
+            "frameIndices": []
+        },
+        {
+            "name": "idle-alt",
+            "prefix": "Pico And Guy Fight",
+            "offsets": [
+                32,
+                31
+            ],
+            "frameRate": 24,
+            "frameIndices": []
+        },
+        {
+            "name": "shoot3-loop",
+            "prefix": "Pico Shoot Right High",
+            "offsets": [
+                0,
+                140
+            ],
+            "frameRate": 25,
+            "frameIndices": [
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "name": "shoot2-loop",
+            "prefix": "Pico Shoot Left High",
+            "offsets": [
+                440,
+                123
+            ],
+            "frameRate": 24,
+            "frameIndices": [
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "name": "shoot1-loop",
+            "prefix": "Pico Shoot Left Low",
+            "offsets": [
+                412,
+                78
+            ],
+            "frameRate": 24,
+            "frameIndices": [
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "name": "shoot4-loop",
+            "prefix": "Pico Shoot Right Low",
+            "offsets": [
+                0,
+                15
+            ],
+            "frameRate": 24,
+            "frameIndices": [
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "name": "danceLeft-idle",
+            "prefix": "Pico Idle",
+            "offsets": [
+                0,
+                7
+            ],
+            "frameRate": 24,
+            "frameIndices": []
+        },
+        {
+            "name": "danceRight-idle",
+            "prefix": "Pico Idle",
+            "offsets": [
+                0,
+                7
+            ],
+            "frameRate": 24,
+            "frameIndices": [
+                8,
+                9
+            ]
+        },
+        {
+            "name": "shoot3",
+            "prefix": "Pico Shoot Left Low",
+            "offsets": [
+                412,
+                78
+            ],
+            "frameRate": 24,
+            "frameIndices": []
+        },
+        {
+            "name": "shoot4",
+            "prefix": "Pico Shoot Left High",
+            "offsets": [
+                440,
+                122
+            ],
+            "frameRate": 24,
+            "frameIndices": []
+        },
+        {
+            "name": "shoot1",
+            "prefix": "Pico Shoot Right Low",
+            "offsets": [
+                0,
+                13
+            ],
+            "frameRate": 24,
+            "frameIndices": []
+        },
+        {
+            "name": "shoot2",
+            "prefix": "Pico Shoot Right High",
+            "offsets": [
+                0,
+                142
+            ],
+            "frameRate": 24,
+            "frameIndices": []
+        },
+        {
+            "name": "danceRight-loop1",
+            "prefix": "Pico Shoot Right Low",
+            "offsets": [
+                0,
+                15
+            ],
+            "frameRate": 24,
+            "frameIndices": [
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "name": "danceLeft-loop1",
+            "prefix": "Pico Shoot Right Low",
+            "offsets": [
+                0,
+                15
+            ],
+            "frameRate": 24,
+            "frameIndices": [
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "name": "danceLeft-loop2",
+            "prefix": "Pico Shoot Right High",
+            "offsets": [
+                0,
+                142
+            ],
+            "frameRate": 24,
+            "frameIndices": [
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "name": "danceRight-loop2",
+            "prefix": "Pico Shoot Right High",
+            "offsets": [
+                0,
+                142
+            ],
+            "frameRate": 24,
+            "frameIndices": [
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "name": "danceRight-alt",
+            "prefix": "Pico And Guy Fight Right",
+            "offsets": [
+                26,
+                33
+            ],
+            "frameRate": 24,
+            "frameIndices": []
+        },
+        {
+            "name": "danceLeft-alt",
+            "prefix": "Pico And Guy Fight Left",
+            "offsets": [
+                27,
+                33
+            ],
+            "frameRate": 24,
+            "frameIndices": []
+        },
+        {
+            "name": "punched",
+            "prefix": "Pico Punched",
+            "offsets": [
+                153,
+                600
+            ],
+            "frameRate": 24,
+            "frameIndices": []
+        },
+        {
+            "name": "fall2",
+            "prefix": "Pico Guy Fall",
+            "offsets": [
+                115,
+                453
+            ],
+            "frameRate": 24,
+            "frameIndices": []
+        },
+        {
+            "name": "fall",
+            "prefix": "Pico Fall",
+            "offsets": [
+                332,
+                462
+            ],
+            "frameRate": 24,
+            "frameIndices": []
+        }
+    ],
+    "flipX": false
+}

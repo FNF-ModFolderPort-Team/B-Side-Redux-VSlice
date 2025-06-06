@@ -1,0 +1,67 @@
+{
+    "version": "1.0.0",
+    "name": "Nothingness",
+    "assetPath": "characters/oof",
+    "singTime": 6.1,
+    "isPixel": false,
+    "scale": 1,
+    "healthIcon": {
+        "id": "poof",
+        "isPixel": false,
+        "flipX": false,
+        "scale": 1
+    },
+    "animations": [
+        {
+            "name": "singLEFT",
+            "prefix": "Dad Sing Note LEFT",
+            "offsets": [
+                -8,
+                9
+            ],
+            "frameRate": 24,
+            "frameIndices": []
+        },
+        {
+            "name": "singDOWN",
+            "prefix": "Dad Sing Note DOWN",
+            "offsets": [
+                2,
+                -52
+            ],
+            "frameRate": 24,
+            "frameIndices": []
+        },
+        {
+            "name": "singUP",
+            "prefix": "Dad Sing Note UP",
+            "offsets": [
+                -8,
+                63
+            ],
+            "frameRate": 24,
+            "frameIndices": []
+        },
+        {
+            "name": "singRIGHT",
+            "prefix": "Dad Sing Note RIGHT",
+            "offsets": [
+                -3,
+                30
+            ],
+            "frameRate": 24,
+            "frameIndices": []
+        },
+        {
+            "name": "idle",
+            "prefix": "Dad idle dance",
+            "offsets": [
+                0,
+                0
+            ],
+            "frameRate": 24,
+            "frameIndices": []
+        }
+    ],
+    "flipX": false
+}

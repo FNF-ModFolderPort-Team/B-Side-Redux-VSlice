@@ -1,0 +1,182 @@
+{
+    "version": "1.0.0",
+    "name": "Bf Car",
+    "assetPath": "characters/bfCar",
+    "singTime": 4,
+    "isPixel": false,
+    "scale": 1,
+    "healthIcon": {
+        "id": "bf",
+        "isPixel": false,
+        "flipX": false,
+        "scale": 1
+    },
+    "animations": [
+        {
+            "name": "idle",
+            "prefix": "BF idle dance",
+            "offsets": [
+                0,
+                0
+            ],
+            "frameRate": 24,
+            "frameIndices": []
+        },
+        {
+            "name": "singLEFT",
+            "prefix": "BF NOTE LEFT0",
+            "offsets": [
+                12,
+                -6
+            ],
+            "frameRate": 24,
+            "frameIndices": []
+        },
+        {
+            "name": "singDOWN",
+            "prefix": "BF NOTE DOWN0",
+            "offsets": [
+                -10,
+                -50
+            ],
+            "frameRate": 24,
+            "frameIndices": []
+        },
+        {
+            "name": "singUP",
+            "prefix": "BF NOTE UP0",
+            "offsets": [
+                -29,
+                27
+            ],
+            "frameRate": 24,
+            "frameIndices": []
+        },
+        {
+            "name": "singRIGHT",
+            "prefix": "BF NOTE RIGHT0",
+            "offsets": [
+                -38,
+                -7
+            ],
+            "frameRate": 24,
+            "frameIndices": []
+        },
+        {
+            "name": "singLEFTmiss",
+            "prefix": "BF NOTE LEFT MISS",
+            "offsets": [
+                12,
+                24
+            ],
+            "frameRate": 24,
+            "frameIndices": []
+        },
+        {
+            "name": "singDOWNmiss",
+            "prefix": "BF NOTE DOWN MISS",
+            "offsets": [
+                -11,
+                -19
+            ],
+            "frameRate": 24,
+            "frameIndices": []
+        },
+        {
+            "name": "singUPmiss",
+            "prefix": "BF NOTE UP MISS",
+            "offsets": [
+                -29,
+                27
+            ],
+            "frameRate": 24,
+            "frameIndices": []
+        },
+        {
+            "name": "singRIGHTmiss",
+            "prefix": "BF NOTE RIGHT MISS",
+            "offsets": [
+                -30,
+                21
+            ],
+            "frameRate": 24,
+            "frameIndices": []
+        },
+        {
+            "name": "idle-loop",
+            "prefix": "BF idle dance",
+            "offsets": [
+                0,
+                0
+            ],
+            "frameRate": 24,
+            "frameIndices": [
+                10,
+                11,
+                12,
+                13
+            ]
+        },
+        {
+            "name": "singLEFT-loop",
+            "prefix": "BF NOTE LEFT0",
+            "offsets": [
+                12,
+                -6
+            ],
+            "frameRate": 24,
+            "frameIndices": [
+                12,
+                13,
+                14,
+                15
+            ]
+        },
+        {
+            "name": "singRIGHT-loop",
+            "prefix": "BF NOTE RIGHT0",
+            "offsets": [
+                -38,
+                -7
+            ],
+            "frameRate": 24,
+            "frameIndices": [
+                58,
+                59,
+                60,
+                61
+            ]
+        },
+        {
+            "name": "singUP-loop",
+            "prefix": "BF NOTE UP0",
+            "offsets": [
+                -29,
+                27
+            ],
+            "frameRate": 24,
+            "frameIndices": [
+                11,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "name": "singDOWN-loop",
+            "prefix": "BF NOTE DOWN0",
+            "offsets": [
+                -10,
+                -50
+            ],
+            "frameRate": 24,
+            "frameIndices": [
+                26,
+                27,
+                28,
+                29
+            ]
+        }
+    ],
+    "flipX": true
+}

@@ -1,0 +1,127 @@
+{
+    "version": "1.0.0",
+    "name": "Tankman Player",
+    "assetPath": "characters/tankmanCaptain",
+    "singTime": 4,
+    "isPixel": false,
+    "scale": 1,
+    "healthIcon": {
+        "id": "tankman",
+        "isPixel": false,
+        "flipX": false,
+        "scale": 1
+    },
+    "animations": [
+        {
+            "name": "idle",
+            "prefix": "Tankman Idle Dance",
+            "offsets": [
+                0,
+                0
+            ],
+            "frameRate": 24,
+            "frameIndices": []
+        },
+        {
+            "name": "singUP",
+            "prefix": "Tankman UP note 1",
+            "offsets": [
+                28,
+                54
+            ],
+            "frameRate": 24,
+            "frameIndices": []
+        },
+        {
+            "name": "singDOWN",
+            "prefix": "Tankman DOWN note 1",
+            "offsets": [
+                66,
+                -107
+            ],
+            "frameRate": 24,
+            "frameIndices": []
+        },
+        {
+            "name": "singUP-alt",
+            "prefix": "TANKMAN UGH",
+            "offsets": [
+                -12,
+                -8
+            ],
+            "frameRate": 24,
+            "frameIndices": []
+        },
+        {
+            "name": "singDOWN-alt",
+            "prefix": "PRETTY GOOD tankman",
+            "offsets": [
+                101,
+                16
+            ],
+            "frameRate": 24,
+            "frameIndices": []
+        },
+        {
+            "name": "singUPmiss",
+            "prefix": "Tankman UP note MISS",
+            "offsets": [
+                28,
+                54
+            ],
+            "frameRate": 24,
+            "frameIndices": []
+        },
+        {
+            "name": "singDOWNmiss",
+            "prefix": "Tankman DOWN note MISS",
+            "offsets": [
+                66,
+                -107
+            ],
+            "frameRate": 24,
+            "frameIndices": []
+        },
+        {
+            "name": "singRIGHT",
+            "prefix": "Tankman Right Note 1",
+            "offsets": [
+                -21,
+                -11
+            ],
+            "frameRate": 24,
+            "frameIndices": []
+        },
+        {
+            "name": "singRIGHTmiss",
+            "prefix": "Tankman Right Note MISS",
+            "offsets": [
+                -16,
+                -11
+            ],
+            "frameRate": 24,
+            "frameIndices": []
+        },
+        {
+            "name": "singLEFT",
+            "prefix": "Tankman Note Left 1",
+            "offsets": [
+                91,
+                -23
+            ],
+            "frameRate": 24,
+            "frameIndices": []
+        },
+        {
+            "name": "singLEFTmiss",
+            "prefix": "Tankman Note Left MISS",
+            "offsets": [
+                91,
+                -23
+            ],
+            "frameRate": 24,
+            "frameIndices": []
+        }
+    ],
+    "flipX": true
+}

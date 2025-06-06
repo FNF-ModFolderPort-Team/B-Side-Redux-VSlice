@@ -1,0 +1,47 @@
+{
+    "version": "1.0.0",
+    "name": "Bf Holding Gf Dead",
+    "assetPath": "characters/bf-gf",
+    "singTime": 4,
+    "isPixel": false,
+    "scale": 1,
+    "healthIcon": {
+        "id": "bf",
+        "isPixel": false,
+        "flipX": false,
+        "scale": 1
+    },
+    "animations": [
+        {
+            "name": "deathLoop",
+            "prefix": "Death Loop",
+            "offsets": [
+                37,
+                83
+            ],
+            "frameRate": 24,
+            "frameIndices": []
+        },
+        {
+            "name": "deathConfirm",
+            "prefix": "Death End",
+            "offsets": [
+                37,
+                115
+            ],
+            "frameRate": 24,
+            "frameIndices": []
+        },
+        {
+            "name": "firstDeath",
+            "prefix": "Death Start",
+            "offsets": [
+                37,
+                100
+            ],
+            "frameRate": 24,
+            "frameIndices": []
+        }
+    ],
+    "flipX": true
+}
