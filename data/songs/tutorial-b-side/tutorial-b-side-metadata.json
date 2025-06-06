@@ -22,13 +22,13 @@
       "instrumental": "",
       "altInstrumentals": [      ],
       "opponentVocals": [
-        "gf"
+        ""
       ],
       "playerVocals": [
-        "bf"
+        ""
       ]
     },
-    "stage": "mainStage",
+    "stage": "stageb",
     "noteStyle": "funkin",
     "ratings": {
       "normal": 0

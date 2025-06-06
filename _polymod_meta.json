@@ -4,14 +4,20 @@
   "contributors": [
     {
       "name": "Huy1234TH",
-      "role": "Porter"
+      "role": "Porter",
+      "icon": "bf",
+      "color": "#9500ff",
+      "url": "https://github.com/khuonghoanghuy"
     },
     {
       "name": "HMFNF",
-      "role": "Helper and Porter"
+      "role": "Helper and Porter",
+      "icon": "bf",
+      "color": "#9500ff",
+      "url": "https://www.youtube.com/@hmfnf"
     }
   ],
   "api_version": "0.6.4",
-  "mod_version": "1.0.0",
-  "license": "Apache-2.0"
+  "mod_version": "0.1.0",
+  "license": "Apache 2.0"
 }
