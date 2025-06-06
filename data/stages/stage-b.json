@@ -91,7 +91,7 @@
 			],
 			"assetPath": "stages/week1/lights",
 			"animations": []
-		}
+		},
 		{
             "zIndex": -13,
             "position": [
@@ -103,9 +103,9 @@
                 1.0
             ],
             "animType": "sparrow",
-            "name": "tobias_think",
+            "name": "floor-dark",
             "isPixel": false,
-            "startingAnimation": "Idle",
+            "startingAnimation": "floor-dark",
             "assetPath": "stages/week1/floor-dark",
             "scroll": [
             1.0,
@@ -119,10 +119,10 @@
                     ],
                     "flipY": false,
                     "frameRate": 12,
-                    "prefix": "think_",
+                    "prefix": "floor-dark",
                     "looped": true,
                     "flipX": false,
-                    "name": "think"
+                    "name": "floor-dark"
                 }
             ]
         }
