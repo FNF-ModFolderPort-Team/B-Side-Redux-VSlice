@@ -92,6 +92,40 @@
 			"assetPath": "stages/week1/lights",
 			"animations": []
 		}
+		{
+            "zIndex": -13,
+            "position": [
+                -250.0,
+                -500.0
+            ],
+            "scale": [
+                1.0,
+                1.0
+            ],
+            "animType": "sparrow",
+            "name": "tobias_think",
+            "isPixel": false,
+            "startingAnimation": "Idle",
+            "assetPath": "stages/week1/floor-dark",
+            "scroll": [
+            1.0,
+            1.0
+            ],
+            "animations": [
+                {
+                    "offsets": [
+                        0,
+                        0
+                    ],
+                    "flipY": false,
+                    "frameRate": 12,
+                    "prefix": "think_",
+                    "looped": true,
+                    "flipX": false,
+                    "name": "think"
+                }
+            ]
+        }
 	],
 	"cameraZoom": 1.0,
 	"version": "1.0.0",
