@@ -3,7 +3,12 @@
   "description": "A B Side Redux Port for Base Game.",
   "contributors": [
     {
-      "name": "Huy1234TH anh HMFNF port"
+      "name": "Huy1234TH",
+      "role": "Porter"
+    },
+    {
+      "name": "HMFNF",
+      "role": "Helper and Porter"
     }
   ],
   "api_version": "0.6.4",
